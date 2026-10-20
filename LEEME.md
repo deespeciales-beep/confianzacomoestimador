@@ -8,6 +8,8 @@ datos/icgmensual.csv: serie mensual del Índice de Confianza en el Gobierno (ICG
 
 datos/instancias.csv: las doce instancias electorales (seis generales, cuatro primarias, dos balotajes) con el voto oficialista sobre votos afirmativos, el ICG en t-1 y t-3, la continuidad, el número de candidaturas del espacio oficialista, la mediana de expectativas de inflación y la fuente de cada resultado electoral.
 
+datos/actas2023.csv: votos por fórmula presidencial en cada uno de los 24 distritos en la elección general del 22 de octubre de 2023, transcriptos de las actas de escrutinio definitivo de las Juntas Electorales Nacionales publicadas por la Cámara Nacional Electoral (www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_generales2023.php). La suma nacional da 9.853.492 votos de Unión por la Patria sobre 26.791.634 afirmativos, 36,78 por ciento, el valor usado en instancias.csv. Los afirmativos se toman como suma de las cinco fórmulas: en San Juan y Corrientes el total de afirmativos declarado en el acta incluye, respectivamente, los nulos y los blancos, como se anota en la columna nota.
+
 fichas/fichas de codificacion.docx y .pdf: las diez fichas de codificación de continuidad y concentración de la oferta, una por instancia, con las fuentes leídas y las codificaciones alternativas de 2015 y 2023.
 
 codigo/serieicg.py: construye icgmensual.csv desde la base de microdatos.

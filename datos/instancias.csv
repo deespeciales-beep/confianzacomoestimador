@@ -4,7 +4,7 @@ General 2007,2007-10-28,45.28,1.8891,1.9988,1,1,20,Dirección Nacional Electoral
 General 2011,2011-10-23,54.11,2.6197,2.3855,1,1,25,Dirección Nacional Electoral resultados 2011 generales
 General 2015,2015-10-25,37.08,1.7779,2.0363,1,1,25,Dirección Nacional Electoral resultados 2015 generales
 General 2019,2019-10-27,40.28,1.9125,1.9353,1,1,30,Dirección Nacional Electoral resultados 2019 definitivos
-General 2023,2023-10-22,36.78,1.0317,1.1782,0,1,100,Cámara Nacional Electoral escrutinio definitivo 2023 (pendiente de cotejo contra total nacional oficial)
+General 2023,2023-10-22,36.78,1.0317,1.1782,0,1,100,Cámara Nacional Electoral actas de escrutinio definitivo de los 24 distritos (9853492 sobre 26791634 afirmativos; ver actas2023.csv)
 PASO 2011,2011-08-14,50.2375,2.3855,,1,1,25,Dirección Nacional Electoral PASO 2011 (10762217 sobre 21422674 positivos)
 PASO 2015,2015-08-09,38.6703,2.0363,,1,1,22,Dirección Nacional Electoral PASO 2015 (8720573 sobre 22551076 positivos)
 PASO 2019,2019-08-11,32.9352,1.9353,,1,1,30,Dirección Nacional Electoral PASO 2019 definitivos (8121596 sobre 24659333 positivos)
