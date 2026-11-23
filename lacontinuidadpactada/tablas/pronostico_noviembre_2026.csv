@@ -1,0 +1,12 @@
+regla,entrada,valor_entrada,voto_t3,voto_t1,denominador,nota
+indice de confianza,limite inferior del intervalo de noviembre de 2026,1.91,42.1,42.6,votos afirmativos,
+indice de confianza,valor de noviembre de 2026,2.04,44.2,44.6,votos afirmativos,
+indice de confianza,octubre de 2025 con respaldo externo,2.10,45.1,45.5,votos afirmativos,
+indice de confianza,promedio de la gestion,2.32,48.7,48.7,votos afirmativos,
+indice de confianza,noviembre de 2025,2.47,51.1,51.0,votos afirmativos,
+aprobacion presidencial,referencia,30,28.8,,votos validos,presidente candidato
+aprobacion presidencial,referencia,35,33.9,,votos validos,presidente candidato
+aprobacion presidencial,AtlasIntel noviembre de 2026,36.2,35.1,,votos validos,serie no calibrada con la base; referencia de piso
+aprobacion presidencial,referencia,40,39.0,,votos validos,presidente candidato
+aprobacion presidencial,referencia,45,44.1,,votos validos,presidente candidato
+aprobacion presidencial,referencia,50,49.2,,votos validos,presidente candidato
